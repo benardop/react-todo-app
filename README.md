@@ -1,5 +1,5 @@
 # React-TODO-APP
-Microverse Module 03 Project: This educational project is to create a React Calculator Application that performs various mathematical operations for the user.
+Microverse Module 03 Project: This educational project is to create a React TODO Application that helps the use orginize their activities.
  
 ## Built With the following
 
